@@ -1,0 +1,22 @@
+* b67b333 (HEAD -> main, origin/main, origin/HEAD) docs: Add GIT-JOURNEY, CHANGELOG
+| * 2b49a6a (feature/another-feature) Used reset 3 times, revert 1 time
+|/  
+| * fecda14 (origin/feature/another-feature) feat: Add test feature
+|/  
+* 6e96bb3 (tag: v1.1.0, tag: v1.0.0) docs: Update README.md
+* 3d55980 cherry pick Initial commit
+* 34f4431 Initial commit
+* 9379ed6 docs: Add FAQ section
+| * a1b0b8f (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   cdd8bfa Merge branch 'conflict-simulator'
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   c1f9b05 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
